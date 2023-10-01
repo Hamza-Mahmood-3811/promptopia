@@ -6,6 +6,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const Nav = () => {
+    //const { data: session } = useSession();
     const isUserLoggedIn = true;
     const [ providers, setProviders ] = useState(null);
     const [toggleDropdown, setToggleDropdown] = useState(false)
