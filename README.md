@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Optional Features(Not Yet Implemented)
+- Implement Search (Feed.jsx)
+    - Search by prompt content
+    - Search by tag
+    - Search by username
+- Implement Click on tag (Feed.jsx)
+- Implement View other Profiles(new api path)
+
+## Resources Used
+- [Next.js](https://nextjs.org/docs)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- [React](https://react.dev/learn)
+- [Next-Auth](https://next-auth.js.org/getting-started/example)
+    - [Provider(Google):](https://next-auth.js.org/providers/google)
+- [MongoDB Atlas](https://www.mongodb.com/atlas/database)
+- [Google Cloud Platform(OAuth)](https://cloud.google.com/?hl=en)
+- [JSMastery](https://www.jsmastery.pro/full-stack-web-development-bootcamp)
+    - [Next.js 13 Full Course 2023](https://www.youtube.com/watch?v=wm5gMKuwSYk&ab_channel=JavaScriptMastery)
